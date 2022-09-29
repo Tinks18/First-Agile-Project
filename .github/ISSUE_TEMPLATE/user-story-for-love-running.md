@@ -1,5 +1,5 @@
 ---
-name: Submit a Poll Response 
+name: Submit a Poll Response
 about: Add user stories for love running project
 title: ''
 labels: ''
