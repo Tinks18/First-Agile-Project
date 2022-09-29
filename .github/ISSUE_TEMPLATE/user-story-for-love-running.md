@@ -1,5 +1,5 @@
 ---
-name: User Story for Love Running
+name: Submit a Poll Response 
 about: Add user stories for love running project
 title: ''
 labels: ''
